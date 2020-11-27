@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Tiburones",
+    "stores": 2,
+    "users": [
+      { "nombre": "Juan" },
+      { "nombre": "Pedro" },
+      { "nombre": "Lucas" }
+    ]
+  },
+  {
+    "nombre": "Dinosaurios",
+    "stores": 3,
+    "users": [{ "nombre": "Florencia" }, { "nombre": "Neil" }]
+  },
+  {
+    "nombre": "Linces",
+    "stores": 0,
+    "users": [
+      { "nombre": "Agustina" },
+      { "nombre": "Juan" },
+      { "nombre": "Angel" },
+      { "nombre": "Miriam" }
+    ]
+  }
+]
